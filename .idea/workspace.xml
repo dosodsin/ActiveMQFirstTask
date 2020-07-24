@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="192481b7-926f-4065-bfca-ad77700ab315" name="Default Changelist" comment="" />
+    <list default="true" id="192481b7-926f-4065-bfca-ad77700ab315" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MessageReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MessageReceiver.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -100,6 +106,8 @@
       <workItem from="1595485580055" duration="3424000" />
       <workItem from="1595490475995" duration="584000" />
       <workItem from="1595491380996" duration="16000" />
+      <workItem from="1595523472601" duration="33000" />
+      <workItem from="1595570987857" duration="332000" />
     </task>
     <servers />
   </component>
@@ -135,9 +143,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1647" y="284" key="extract.method.dialog/0.0.2560.1040@0.0.2560.1040" timestamp="1595489841784" />
-    <state x="1285" y="231" key="new project wizard" timestamp="1595152852939">
+    <state x="1285" y="231" key="new project wizard" timestamp="1595523505063">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1285" y="231" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1595152852939" />
+    <state x="1285" y="231" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1595523505063" />
   </component>
 </project>
